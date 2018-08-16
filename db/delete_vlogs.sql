@@ -1,0 +1,1 @@
+DELETE FROM vlogs WHERE id = $1;

@@ -1,0 +1,17 @@
+.header{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:black;
+    border: 1px solid red; 
+    height:50vh;
+}
+
+.navbar{
+
+background-color: yellow;
+justify-content: space-around;
+display: flex;
+width:30%;
+height:25%;
+}
